@@ -1,3 +1,5 @@
+side note: you git add, git status, gitt commit then git push.
+
 # intro-to-webscaping
 Learning to webscrap with Python Beautiful Soup
 
